@@ -1,6 +1,6 @@
 # Python Load Testing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/temidjoy-approved-green.svg)
 
-[<img src="https://res.cloudinary.com/temidjoy/image/upload/v1536059370/python.png" align="right" width="250">](https://github.com/zeit/next.js)
+[<img src="https://res.cloudinary.com/temidjoy/image/upload/v1536059370/python.png" align="right" width="250">](https://www.python.org/)
 
 > Curated list of resources: books, videos, articles about how to build, conduct and analyze load tests for web apps.
 
@@ -11,7 +11,7 @@ and integrate systems more effectively.
 
 ## Table of Contents
 - [Python Community](#community)
-- [Load Testing Tools](#loadtestingtools)
+- [Load Testing Tools](#load testing tools)
 - [Articles](#articles)
 - [Books](#books)
 - [Videos](#videos)
