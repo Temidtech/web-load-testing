@@ -20,8 +20,8 @@
 * [GitHub](https://github.com/python)
 
 ## LoadTestingTools
-* [Locust.io](https://locust.io/) An open source load testing tool
-* [JMeter](http://jmeter.apache.org/) JMeter application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance. It was originally designed for testing Web Applications but has since expanded to other test functions.
+* [Locust.io](https://locust.io/) :An open source load testing tool
+* [JMeter](http://jmeter.apache.org/) :JMeter application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance. It was originally designed for testing Web Applications but has since expanded to other test functions.
 
 ## Articles
 * [GitHub](https://github.com/python)
