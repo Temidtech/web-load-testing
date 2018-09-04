@@ -17,14 +17,19 @@
 
 ## Community
 * [PythonDev Slack](https://pythondev.slack.com)
-* [GitHub](https://github.com/python)
+* [Python GitHub](https://github.com/python)
 
 ## LoadTestingTools
 * [Locust.io](https://locust.io/) :An open source load testing tool
 * [JMeter](http://jmeter.apache.org/) :JMeter application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance. It was originally designed for testing Web Applications but has since expanded to other test functions.
+* [Taurus](https://gettaurus.org/) :Taurus allows you to perform load testing on a specific piece of code while it’s still being developed. 
+* [The Grinder](http://grinder.sourceforge.net/) :The Grinder is Java-based and can load test any system that has a Java API.
+
 
 ## Articles
-* [GitHub](https://github.com/python)
+* [Why Load Testing is Important](https://www.blazemeter.com/blog/why-load-testing-is-important)
+* [Why should you be serious about web performance testing](https://www.utest.com/articles/why-should-you-be-serious-about-web-performance-testing)
+
 
 
 ## Contributing
