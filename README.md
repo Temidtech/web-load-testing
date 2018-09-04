@@ -9,12 +9,16 @@ and integrate systems more effectively.
 
 *List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
 
-## Contents
-- [Community](#community)
-- [Essentials](#essentials)
+## Table of Contents
+- [Python Community](#community)
 - [Articles](#articles)
-- [Boilerplates](#boilerplates)
-- [Extensions](#extensions)
-- [Apps](#apps)
 - [Books](#books)
 - [Videos](#videos)
+
+## Community
+* [Slack](pythondev.slack.com)
+* [GitHub](https://github.com/python)
+
+
+## Contributing
+Would you like to contribute? Feel free to send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Regards!
