@@ -9,19 +9,19 @@
 *List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
 
 ## Table of Contents
-- [Python Community](#community)
+- [Community](#community)
 - [Load Testing Tools](#LoadTestingTools)
 - [Articles](#articles)
 - [Books](#books)
 - [Videos](#videos)
 
 ## Community
-* [Slack](pythondev.slack.com)
+* [PythonDev Slack](https://pythondev.slack.com)
 * [GitHub](https://github.com/python)
 
 ## LoadTestingTools
-* [Slack](pythondev.slack.com)
-* [GitHub](https://github.com/python)
+* [Locust.io](https://locust.io/)An open source load testing tool
+* [JMeter](http://jmeter.apache.org/)
 
 ## Articles
 * [GitHub](https://github.com/python)
