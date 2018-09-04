@@ -11,7 +11,7 @@ and integrate systems more effectively.
 
 ## Table of Contents
 - [Python Community](#community)
-- [Load Testing Tools](#load testing tools)
+- [Load Testing Tools](#LoadTestingTools)
 - [Articles](#articles)
 - [Books](#books)
 - [Videos](#videos)
@@ -20,7 +20,7 @@ and integrate systems more effectively.
 * [Slack](pythondev.slack.com)
 * [GitHub](https://github.com/python)
 
-## Load Testing Tools
+## LoadTestingTools
 * [Slack](pythondev.slack.com)
 * [GitHub](https://github.com/python)
 
